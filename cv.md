@@ -26,5 +26,3 @@ EPAM lab for test automation .Net
 
 #### English:
 B1
-
-https://SatsunkevichAlex.github.io/rsschool-cv/cv
